@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/RahulPatel-0/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -44,6 +46,7 @@
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
