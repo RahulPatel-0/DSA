@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -21,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -39,5 +41,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
