@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/RahulPatel-0/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/RahulPatel-0/DSA/tree/master/1212-sequential-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
