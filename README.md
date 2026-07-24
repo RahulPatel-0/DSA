@@ -56,4 +56,5 @@
 |  |
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulPatel-0/DSA/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
