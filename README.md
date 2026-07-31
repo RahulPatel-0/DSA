@@ -27,6 +27,7 @@
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/RahulPatel-0/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -61,8 +62,13 @@
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulPatel-0/DSA/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
