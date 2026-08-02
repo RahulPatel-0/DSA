@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -12,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
@@ -71,4 +73,16 @@
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
