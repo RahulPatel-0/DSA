@@ -9,6 +9,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -32,6 +33,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/RahulPatel-0/DSA/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+## Hash Table
+|  |
+| ------- |
+| [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 <!---LeetCode Topics End-->
