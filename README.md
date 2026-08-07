@@ -16,6 +16,7 @@
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/RahulPatel-0/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/RahulPatel-0/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/RahulPatel-0/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/RahulPatel-0/DSA/tree/master/1212-sequential-digits) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/RahulPatel-0/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
