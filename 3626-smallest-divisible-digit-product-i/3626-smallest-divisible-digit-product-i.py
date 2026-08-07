@@ -7,7 +7,9 @@ class Solution:
                 prod*=rem
                 n//=10
             return prod
+        
         for i in range(n,n+10):
             if(ProductDigit(i)%t==0):
                 return i
+
         
