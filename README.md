@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/RahulPatel-0/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -89,8 +92,17 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
 ## Hash Table
 |  |
 | ------- |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
