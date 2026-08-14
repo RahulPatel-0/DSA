@@ -9,6 +9,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/RahulPatel-0/DSA/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/RahulPatel-0/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RahulPatel-0/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +98,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RahulPatel-0/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 ## Minimax
@@ -110,5 +112,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RahulPatel-0/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
