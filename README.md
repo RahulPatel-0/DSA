@@ -19,6 +19,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/RahulPatel-0/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,13 +111,23 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RahulPatel-0/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
