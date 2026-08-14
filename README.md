@@ -70,6 +70,7 @@
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RahulPatel-0/DSA/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/RahulPatel-0/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 ## Minimax
 |  |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/RahulPatel-0/DSA/tree/master/0909-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/RahulPatel-0/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
