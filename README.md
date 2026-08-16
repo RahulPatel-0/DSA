@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RahulPatel-0/DSA/tree/master/0486-predict-the-winner) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RahulPatel-0/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
 | ------- |
@@ -128,8 +129,20 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/RahulPatel-0/DSA/tree/master/2573-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/RahulPatel-0/DSA/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/RahulPatel-0/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
