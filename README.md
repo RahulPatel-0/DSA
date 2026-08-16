@@ -129,7 +129,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
