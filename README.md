@@ -16,6 +16,7 @@
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RahulPatel-0/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4384-elevator-requests-i](https://github.com/RahulPatel-0/DSA/tree/master/4384-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RahulPatel-0/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4384-elevator-requests-i](https://github.com/RahulPatel-0/DSA/tree/master/4384-elevator-requests-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -131,7 +133,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
