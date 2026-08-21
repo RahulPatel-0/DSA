@@ -11,6 +11,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/RahulPatel-0/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RahulPatel-0/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RahulPatel-0/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/RahulPatel-0/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/RahulPatel-0/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RahulPatel-0/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/RahulPatel-0/DSA/tree/master/4107-find-missing-elements) |
@@ -47,6 +48,7 @@
 | ------- |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RahulPatel-0/DSA/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/RahulPatel-0/DSA/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/RahulPatel-0/DSA/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/RahulPatel-0/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -129,7 +131,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/RahulPatel-0/DSA/tree/master/1617-stone-game-iv) |
