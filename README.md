@@ -34,4 +34,12 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/RahulPatel-0/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## String
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/RahulPatel-0/DSA/tree/master/3019-furthest-point-from-origin) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/RahulPatel-0/DSA/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
