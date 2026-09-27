@@ -38,8 +38,13 @@
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/RahulPatel-0/DSA/tree/master/3019-furthest-point-from-origin) |
+| [3811-reverse-degree-of-a-string](https://github.com/RahulPatel-0/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/RahulPatel-0/DSA/tree/master/3019-furthest-point-from-origin) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/RahulPatel-0/DSA/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
