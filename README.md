@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 ## Math
 |  |
 | ------- |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4245-count-commas-in-range](https://github.com/RahulPatel-0/DSA/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/RahulPatel-0/DSA/tree/master/4248-count-commas-in-range-ii) |
 ## Tree
