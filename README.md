@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -17,6 +18,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
