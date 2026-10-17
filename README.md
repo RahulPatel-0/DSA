@@ -7,6 +7,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,9 @@
 |  |
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RahulPatel-0/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
