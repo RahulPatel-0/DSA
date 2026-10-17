@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/RahulPatel-0/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 | [4245-count-commas-in-range](https://github.com/RahulPatel-0/DSA/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/RahulPatel-0/DSA/tree/master/4248-count-commas-in-range-ii) |
 ## Tree
@@ -83,6 +84,7 @@
 | ------- |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RahulPatel-0/DSA/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/RahulPatel-0/DSA/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
