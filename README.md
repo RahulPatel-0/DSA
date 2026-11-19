@@ -11,6 +11,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4041-climbing-stairs-ii](https://github.com/RahulPatel-0/DSA/tree/master/4041-climbing-stairs-ii) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RahulPatel-0/DSA/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -83,6 +84,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RahulPatel-0/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RahulPatel-0/DSA/tree/master/0032-longest-valid-parentheses) |
+| [4041-climbing-stairs-ii](https://github.com/RahulPatel-0/DSA/tree/master/4041-climbing-stairs-ii) |
 ## Backtracking
 |  |
 | ------- |
