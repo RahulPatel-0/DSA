@@ -6,6 +6,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RahulPatel-0/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RahulPatel-0/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RahulPatel-0/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -96,10 +97,16 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RahulPatel-0/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RahulPatel-0/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RahulPatel-0/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
