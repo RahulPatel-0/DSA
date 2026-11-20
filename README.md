@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RahulPatel-0/DSA/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RahulPatel-0/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RahulPatel-0/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -18,6 +19,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RahulPatel-0/DSA/tree/master/0001-two-sum) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
