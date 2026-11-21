@@ -11,6 +11,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/RahulPatel-0/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RahulPatel-0/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/RahulPatel-0/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RahulPatel-0/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RahulPatel-0/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/RahulPatel-0/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4041-climbing-stairs-ii](https://github.com/RahulPatel-0/DSA/tree/master/4041-climbing-stairs-ii) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RahulPatel-0/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RahulPatel-0/DSA/tree/master/0032-longest-valid-parentheses) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RahulPatel-0/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [4041-climbing-stairs-ii](https://github.com/RahulPatel-0/DSA/tree/master/4041-climbing-stairs-ii) |
 ## Backtracking
 |  |
@@ -106,6 +108,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/RahulPatel-0/DSA/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/RahulPatel-0/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/RahulPatel-0/DSA/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RahulPatel-0/DSA/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/RahulPatel-0/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
